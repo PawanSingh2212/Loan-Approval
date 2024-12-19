@@ -2,12 +2,11 @@
 A machine learning project for predicting loan approval based on applicant details. Includes data preprocessing, feature engineering, and model building using Python.
 
 
-
 - Loan approval prediction refers to the use of machine learning techniques to predict the likelihood of a loan application being approved or denied by banks and financial institutions. By using advanced algorithms and predictive models, banks can streamline their loan approval processes and make informed decisions for the benefit of both lenders and borrowers.
 
-Task is to create a predictive model that accurately determines whether a loan application should be approved or denied based on the given loan approval prediction dataset. The dataset includes various details about loan seekers including their personal and financial information, such as gender, marital status, education level, income, loan amount, loan term, credit history, property size and loan approval status.
+- Task is to create a predictive model that accurately determines whether a loan application should be approved or denied based on the given loan approval prediction dataset. The dataset includes various details about loan seekers including their personal and financial information, such as gender, marital status, education level, income, loan amount, loan term, credit history, property size and loan approval status.
 
-# The dataset contains 13 columns and 614 rows. Here's an overview of the columns:
+### Overview of the columns:
 
 1- Loan_ID: Unique identifier for each loan application .
 2- Gender: Gender of the applicant 
